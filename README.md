@@ -11,9 +11,6 @@
 💻 With hands-on expertise in modern technologies like React.js, React Native, Next.js 15, Nuxt.js, Angular 19, Firebase, Node.js, Express.js, NestJS, MongoDB, PostgreSQL, and more, I build scalable, high-performing, and user-centric applications that deliver real business value.
 
 ⚙️ On the DevOps side, I specialize in designing and managing robust cloud-native infrastructures. I work with AWS ☁️ and Azure 🔵, along with Terraform, Ansible, and Linux administration for Infrastructure as Code (IaC) and automation. My CI/CD pipelines integrate tools like Jenkins, GitHub Actions, and GitLab CI/CD, ensuring smooth and reliable deployments. I also utilize Docker 🐳 and Kubernetes ☸️ for containerization and orchestration, while monitoring and optimizing performance using Grafana 📊 and Prometheus 📡. This holistic DevOps approach streamlines workflows, increases system reliability, and accelerates product delivery.
-
-📚 As a Program Manager & Faculty Member @ Denning, I mentor and guide students from the University of London & University of Greenwich, helping them bridge the gap between academia and industry with practical, real-world knowledge.
-
 </div>
  
 <div align="center"> 
