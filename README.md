@@ -6,7 +6,7 @@
 <h2 align="center">A Passionate Software as well as Devops Engineer💻🎥
 </h2>
 <div align="center"> 
- 🌱 I'm Devansh Upadhyay – Full Stack Web & Cross-Platform Mobile App Engineer 📱, DevOps Engineer ⚙️, and Program Manager & Faculty @ Denning (University of London & University of Greenwich) 📚.
+ 🌱 I'm Devansh Upadhyay – Full Stack Web & Cross-Platform Mobile App Engineer 📱, DevOps Engineer ⚙️, 
 
 💻 With hands-on expertise in modern technologies like React.js, React Native, Next.js 15, Nuxt.js, Angular 19, Firebase, Node.js, Express.js, NestJS, MongoDB, PostgreSQL, and more, I build scalable, high-performing, and user-centric applications that deliver real business value.
 
@@ -41,7 +41,7 @@ devansh-upadhyay-22758a316" >
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Devansh's GitHub Stats" height="200px" />
+       
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Devansh's Top Languages" height="200px" />
@@ -49,6 +49,6 @@ devansh-upadhyay-22758a316" >
     </tr>
   </table>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-ali&layout=compact&theme=midnight-purple" alt="farzeen-ali" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh upadhyaya&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 
 </p>
