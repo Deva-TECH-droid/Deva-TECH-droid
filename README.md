@@ -14,7 +14,7 @@
 </div>
  
 <div align="center"> 
-  <a href="mailtodevanshupadhyay276@gmail.com">
+  <a href="devanshupadhyay745@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
     <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
