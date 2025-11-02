@@ -38,14 +38,18 @@ devansh-upadhyay-22758a316" >
   <table>
     <tr>
       <td>
-       
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Devansh's Top Languages" height="200px" />
-      </td>
-    </tr>
-  </table>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-ali&layout=compact&theme=midnight-purple" alt="farzeen-ali" /> -->
+  
+## 📊 GITHUB STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deva-TECH-droid&show_icons=true&theme=tokyonight)
+
+## TOP LANGUAGES CARD
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-TECH-droid&layout=compact&theme=tokyonight)
+
+## CONTRIBUTION GRAPH
+![Snake animation](https://raw.githubusercontent.com/Deva-TECH-droid/Deva-TECH-droid/output/github-contribution-grid-snake.svg)
+
+
 
 
 </p>
