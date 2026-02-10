@@ -10,20 +10,19 @@
 
 ## 👨🏻‍💻 About Me
 
-🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web ** and **DevOps Engineer ⚙️**.
+🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web-Devloper** and **DevOps Engineer ⚙️**.
 
 💻 I build scalable, high-performing, and user-centric applications using modern technologies like:
 
-- React.js, React Native  
-- Next.js 15, Nuxt.js, Angular 19  
-- Node.js, Express.js, NestJS  
+- React.js 
+- Next.js 15
+- Node.js, Express.js
 - MongoDB, PostgreSQL  
 - Firebase  
 
 ⚙️ On the DevOps side, I specialize in:
 
 - ☁️ AWS & Google Cloud (GCP)  
-- 🔵 Azure  
 - 🐳 Docker & ☸️ Kubernetes  
 - 🏗 Terraform & Ansible (Infrastructure as Code)  
 - 🔄 CI/CD with Jenkins, GitHub Actions, GitLab CI/CD  
