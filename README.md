@@ -1,55 +1,91 @@
 <h1 align="center">
-    <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=7E15F7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;I'm+Devansh+Upadhyay+👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=7E15F7&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hi+There!+👋;I'm+Devansh+Upadhyay+👨🏻‍💻;Full+Stack+%7C+DevOps+Engineer+🚀;" />
 </h1>
 
-<h2 align="center">A Passionate Software as well as Devops Engineer💻🎥
+<h2 align="center">
+🚀 Full Stack Web & DevOps Engineer | Cloud & Automation Specialist
 </h2>
-<div align="center"> 
- 🌱 I'm Devansh Upadhyay – Full Stack Web & Cross-Platform Mobile App Engineer 📱, DevOps Engineer ⚙️, 
 
-💻 With hands-on expertise in modern technologies like React.js, React Native, Next.js 15, Nuxt.js, Angular 19, Firebase, Node.js, Express.js, NestJS, MongoDB, PostgreSQL, and more, I build scalable, high-performing, and user-centric applications that deliver real business value.
+---
 
-⚙️ On the DevOps side, I specialize in designing and managing robust cloud-native infrastructures. I work with AWS ☁️ and Azure 🔵, along with Terraform, Ansible, and Linux administration for Infrastructure as Code (IaC) and automation. My CI/CD pipelines integrate tools like Jenkins, GitHub Actions, and GitLab CI/CD, ensuring smooth and reliable deployments. I also utilize Docker 🐳 and Kubernetes ☸️ for containerization and orchestration, while monitoring and optimizing performance using Grafana 📊 and Prometheus 📡. This holistic DevOps approach streamlines workflows, increases system reliability, and accelerates product delivery.
-</div>
- 
+## 👨🏻‍💻 About Me
+
+🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web & Cross-Platform Mobile App Engineer 📱** and **DevOps Engineer ⚙️**.
+
+💻 I build scalable, high-performing, and user-centric applications using modern technologies like:
+
+- React.js, React Native  
+- Next.js 15, Nuxt.js, Angular 19  
+- Node.js, Express.js, NestJS  
+- MongoDB, PostgreSQL  
+- Firebase  
+
+⚙️ On the DevOps side, I specialize in:
+
+- ☁️ AWS & Google Cloud (GCP)  
+- 🔵 Azure  
+- 🐳 Docker & ☸️ Kubernetes  
+- 🏗 Terraform & Ansible (Infrastructure as Code)  
+- 🔄 CI/CD with Jenkins, GitHub Actions, GitLab CI/CD  
+- 📊 Monitoring with Grafana & Prometheus  
+- 🔐 Secure Auth using JWT  
+- 🔁 Workflow Automation using n8n  
+- 🐧 Linux Administration  
+
+I focus on building production-grade systems that are scalable, secure, and performance-optimized.
+
+---
+
+## 📬 Connect With Me
+
 <div align="center"> 
-  <a href="devanshupadhyay745@gmail.com">
+  <a href="mailto:devanshupadhyay745@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/
-devansh-upadhyay-22758a316" >
+
+  <a href="https://www.linkedin.com/in/devansh-upadhyay-22758a316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
- 
-<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
-<br/>
+
+---
+
+# 🚀 Tech Stack
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=reactr,javascript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,jenkins,terraform,aws,ansible,grafana" /><br>
+
+### 💻 Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,javascript,nodejs,express,nestjs,tailwind" />
+
+### 🗄 Databases & Auth
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,linux,grafana" />
+<img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github" />
+
 </div>
-<br/>
-<hr/>
-<p align="center">
-  <table>
-    <tr>
-      <td>
-  
-## 📊 GITHUB STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deva-TECH-droid&show_icons=true&theme=tokyonight)
+---
 
-## TOP LANGUAGES CARD
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-TECH-droid&layout=compact&theme=tokyonight)
+# 📊 GitHub Analytics
 
-## CONTRIBUTION GRAPH
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deva-TECH-droid&show_icons=true&theme=tokyonight&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-TECH-droid&layout=compact&theme=tokyonight&border_radius=10)
+
 ![Snake animation](https://raw.githubusercontent.com/Deva-TECH-droid/Deva-TECH-droid/output/github-contribution-grid-snake.svg)
 
+</div>
 
+---
 
-
-</p>
+<h3 align="center">
+🔥 Building Scalable Systems | ⚙️ Automating Infrastructure | ☁️ Cloud Native Architect
+</h3>
