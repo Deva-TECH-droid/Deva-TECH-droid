@@ -3,14 +3,14 @@
 </h1>
 
 <h2 align="center">
-🚀 Full Stack Web & DevOps Engineer | Cloud & Automation Specialist
+🚀 Full Stack Web & DevOps Engineer 
 </h2>
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web & Cross-Platform Mobile App Engineer 📱** and **DevOps Engineer ⚙️**.
+🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web ** and **DevOps Engineer ⚙️**.
 
 💻 I build scalable, high-performing, and user-centric applications using modern technologies like:
 
