@@ -7,31 +7,78 @@
 </h2>
 
 ---
+<!-- Animated Header -->
+<h2 align="center">
+  🚀 Building Scalable Systems | Full Stack & DevOps Engineer ⚙️
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Devansh+Upadhyay+👨🏻‍💻;Full+Stack+Developer+⚛️;DevOps+Engineer+☁️;Cloud+%7C+Kubernetes+%7C+Terraform+Specialist;Building+Production-Grade+Systems+🚀" />
+</p>
+
+---
 
 ## 👨🏻‍💻 About Me
 
-🌱 I'm **Devansh Upadhyay** – a passionate **Full Stack Web-Devloper** and **DevOps Engineer ⚙️**.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-💻 I build scalable, high-performing, and user-centric applications using modern technologies like:
+🌱 I'm **Devansh Upadhyay**, a passionate **Full Stack Web Developer** and **DevOps Engineer** who loves turning ideas into scalable digital products.
 
-- React.js 
-- Next.js 15
-- Node.js, Express.js
-- MongoDB, PostgreSQL  
-- Firebase  
+💡 I don’t just write code — I architect **production-grade systems** that are:
 
-⚙️ On the DevOps side, I specialize in:
+- ⚡ High Performance  
+- 🔐 Secure by Design  
+- 📈 Scalable & Cloud-Native  
+- 🧠 Optimized for Real-World Traffic  
+
+---
+
+### 💻 Full Stack Expertise
+
+🚀 Crafting modern web applications using:
+
+- ⚛️ React.js & Next.js 15  
+- 🟢 Node.js & Express.js  
+- 🗄 MongoDB & PostgreSQL  
+- 🔥 Firebase  
+- 🔐 Secure Authentication with JWT  
+- 🔁 Real-time apps using Socket.IO  
+
+---
+
+### ☁️ DevOps & Cloud Engineering
+
+⚙️ I specialize in designing & managing cloud-native infrastructure:
 
 - ☁️ AWS & Google Cloud (GCP)  
 - 🐳 Docker & ☸️ Kubernetes  
 - 🏗 Terraform & Ansible (Infrastructure as Code)  
-- 🔄 CI/CD with Jenkins, GitHub Actions, GitLab CI/CD  
-- 📊 Monitoring with Grafana & Prometheus  
-- 🔐 Secure Auth using JWT  
+- 🔄 CI/CD with Jenkins, GitHub Actions & GitLab CI/CD  
+- 📊 Monitoring & Observability with Grafana & Prometheus  
 - 🔁 Workflow Automation using n8n  
-- 🐧 Linux Administration  
+- 🐧 Linux Server Administration  
 
-I focus on building production-grade systems that are scalable, secure, and performance-optimized.
+---
+
+### 🧠 Engineering Philosophy
+
+> “Code is temporary. Architecture is forever.”
+
+I focus on building **resilient, observable, and automated systems** that can handle scale without breaking.
+
+---
+
+### 🔥 What Makes Me Different?
+
+✅ Infrastructure + Application both handled  
+✅ Dev + Ops mindset (End-to-End Ownership)  
+✅ Performance & Security focused  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
