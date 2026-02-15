@@ -7,13 +7,12 @@
 </h2>
 
 ---
-<!-- Animated Header -->
-<h2 align="center">
-  🚀 Building Scalable Systems | Full Stack & DevOps Engineer ⚙️
-</h2>
+<h3 align="center">
+  🚀 Full Stack Engineer | ☁️ DevOps Architect | ⚙️ Cloud Native Builder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Devansh+Upadhyay+👨🏻‍💻;Full+Stack+Developer+⚛️;DevOps+Engineer+☁️;Cloud+%7C+Kubernetes+%7C+Terraform+Specialist;Building+Production-Grade+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems+🚀;Cloud+Native+%7C+Kubernetes+%7C+Terraform;Building+Production-Grade+Applications;Dev+%2B+Ops+Mindset+⚙️;Automate+Everything+🔥" />
 </p>
 
 ---
@@ -79,7 +78,6 @@ I focus on building **resilient, observable, and automated systems** that can ha
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
-
 ---
 
 ## 📬 Connect With Me
