@@ -53,8 +53,12 @@ I focus on building production-grade systems that are scalable, secure, and perf
 
 <div align="center">
 
-### 💻 Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,javascript,nodejs,express,nestjs,tailwind" />
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,javascript,tailwind" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+### 🛠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 
 ### 🗄 Databases & Auth
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
@@ -64,8 +68,8 @@ I focus on building production-grade systems that are scalable, secure, and perf
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,linux,grafana" />
 <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
 
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github" />
+### 🔧 Tools & API Testing
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 
 </div>
 
