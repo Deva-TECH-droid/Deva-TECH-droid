@@ -65,7 +65,7 @@ I focus on building production-grade systems that are scalable, secure, and perf
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,linux,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,linux,grafana,prometheus" />
 <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ### 🔧 Tools & API Testing
