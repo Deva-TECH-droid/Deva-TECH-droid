@@ -57,22 +57,24 @@ I focus on building production-grade systems that are scalable, secure, and perf
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,javascript,tailwind" />
 <img src="https://skillicons.dev/icons?i=figma" />
 
-### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+### 🛠 Backend & Realtime
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
 ### 🗄 Databases & Auth
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,linux,grafana,prometheus" />
+<img src="https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ### 🔧 Tools & API Testing
 <img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge&logo=thunderclient&logoColor=white" />
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
