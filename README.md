@@ -14,46 +14,50 @@
 
 ---
 
-## 🦾 Mission Directive: The Engineer's Dossier
+## 🦾 Dossier: The Architect
 
 <div align="center">
-  <img align="right" width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyb2ZzZ2xsZ2tsZ29yeG9yaDR5Y2Z6Ynp6Ymx3ZGo5ZW9oOXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyb2ZzZ2xsZ2tsZ29yeG9yaDR5Y2Z6Ynp6Ymx3ZGo5ZW9oOXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-Greetings! I'm **Devansh**, a **Technical Architect** with a dual-threat expertise in **Full-Stack Engineering** and **DevOps Orchestration**. I bridge the gap between complex software design and bulletproof infrastructure.
+Greetings! I'm **Devansh**, a **Technical Lead** with a dual-threat expertise in **Full-Stack Development** and **Cloud Infrastructure**. I specialize in taking raw concepts and evolving them into world-class, scalable, and automated digital products.
 
-### 🧠 Engineering Philosophy
-- **Scalability First**: I build for 10 users, but I architect for 10 million.
-- **Automate or Die**: If I have to do it twice, I write a script for it.
-- **Security is Default**: Encryption and Zero-Trust are baked into every layer.
-- **Observability**: If it's not monitored, it's not in production.
-
----
-
-## 🚀 Specialized Tech Arsenals
-
-### 💻 Full-Stack Development Layer
-- **Client Side**: `Next.js 15` (App Router), `React 19`, `TypeScript`, `TailwindCSS`, `Three.js` (3D UX).
-- **Server Side**: `Node.js`, `NestJS` (Modular Architecture), `Go` (High Performance Microservices).
-- **Real-time**: `Socket.IO`, `Webkit`, `gRPC` for internal service communication.
-- **State Management**: `Redux Toolkit`, `Zustand`, `React Query`.
-
-### ⚙️ DevOps & SRE Layer
-- **Containerization**: `Docker` & `Podman` for lightweight environments.
-- **Orchestration**: `Kubernetes (K8s)` - EKS, GKE, and Bare Metal clusters.
-- **Infrastructure as Code (IaC)**: `Terraform`, `Ansible`, `Pulumi`.
-- **CI/CD Pipelines**: `Jenkins` (Groovy Pipelines), `GitHub Actions`, `GitLab CI`.
-- **Cloud Providers**: `AWS` (Lamba, S3, EC2, RDS, VPC), `Google Cloud (GCP)`, `DigitalOcean`.
-- **Monitoring**: `Prometheus`, `Grafana`, `Loki`, `Datadog`.
-
-### 🗄️ Persistence & Cache Layer
-- **SQL**: `PostgreSQL`, `MySQL` (Optimization & Indexing).
-- **NoSQL**: `MongoDB`, `Redis` (Caching & Task Queues), `Elasticsearch`.
-- **Message Brokers**: `RabbitMQ`, `Apache Kafka` (Stream Processing).
+- 🔭 **Current Directive**: Building high-throughput FinTech gateways using Microservices.
+- 🧪 **R&D Focus**: Kubernetes autoscaling algorithms and Zero-Downtime CI/CD.
+- ⚡ **Superpower**: Debugging complex distributed system failures in production.
+- 🤝 **Philosophy**: End-to-end ownership. I build the code, and I run the server.
 
 ---
 
-## 🧪 System Architecture Strategy
+## 🛡️ Experience & Deployment History
+
+| Organization | Role | Impact |
+| :--- | :--- | :--- |
+| **Tech Innovators Inc.** | Sr. DevOps Engineer | Reduced deployment time by **65%** using Jenkins & Terraform. |
+| **Nebula Web Solutions** | Full Stack Lead | Scaled user base to **500k+** concurrent users using Redis & K8s. |
+| **Open Source Contributor** | Cloud Architect | Optimized 50+ Docker images for performance & security. |
+
+---
+
+## 🚀 The Tech Arsenal (Classified)
+
+### 💻 Frontend & UI Orchestration
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,javascript,typescript,tailwind,sass,bootstrap,threejs,figma" />
+
+### ⚙️ Backend & Real-time Engineering
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,kotlin,go,python" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+
+### ☁️ DevOps, SRE & Cloud Native
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux,nginx,cloudflare,grafana,prometheus" />
+
+### 🗄️ Persistence Layer & Auth
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+
+---
+
+## 🧪 System Architecture & Workflow
 
 ```mermaid
 graph TD
